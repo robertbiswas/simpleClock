@@ -2,11 +2,11 @@
 
 This is a project to describe basic uses of Reactjs features.
 
-** Includes **
+**Includes**
 - Class Component
 - Functional Component
 - Props
 - State and set State
 
-*Updated on: May 6, 2023*
+*Updated on: May 9, 2023*
 *Init date: May 6, 2023*
